@@ -146,7 +146,8 @@ Now, *inside* the OpenFOAM installation folder, download OpenFOAM 2.4.x code, an
 
 ```bash
 # Download the OpenFOAM source code
-git clone https://github.com/pablo-benito/OpenFOAM-2.4.x
+# git clone https://github.com/pablo-benito/OpenFOAM-2.4.x
+git clone https://github.com/huangtao/OpenFOAM-2.4.x.git
 git clone https://github.com/pablo-benito/ThirdParty-2.4.x.git
 ```
 
